@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+
+[[https://www.gnu.org/software/emacs/][https://img.shields.io/badge/built%20with-Emacs-f596aa.svg]]
+[[https://gitee.com/yurimx/yurimacs][https://img.shields.io/badge/built%20with-yurimacs-f596aa.svg]]
+
+* Yuri's Code Style
+
+  My code style
+
+
+  -Yuri MX
